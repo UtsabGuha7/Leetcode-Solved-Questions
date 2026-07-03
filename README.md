@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -44,9 +46,22 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
