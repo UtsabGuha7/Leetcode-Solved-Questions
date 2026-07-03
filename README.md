@@ -6,6 +6,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
