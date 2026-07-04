@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
