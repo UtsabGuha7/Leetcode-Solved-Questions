@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
