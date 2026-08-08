@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
