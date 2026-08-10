@@ -77,4 +77,12 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
