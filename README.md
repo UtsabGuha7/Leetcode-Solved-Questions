@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
