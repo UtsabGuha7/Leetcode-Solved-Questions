@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -28,12 +29,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -55,10 +58,12 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -95,4 +100,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
