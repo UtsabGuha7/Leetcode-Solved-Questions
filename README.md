@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -103,7 +105,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
@@ -114,5 +116,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
