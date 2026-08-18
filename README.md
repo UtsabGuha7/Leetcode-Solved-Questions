@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
@@ -102,7 +103,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
