@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
