@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -46,15 +47,21 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
