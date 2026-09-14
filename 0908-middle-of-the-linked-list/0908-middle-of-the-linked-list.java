@@ -1,6 +1,4 @@
 /**
-876. Middle of the Linked List
-
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
@@ -12,7 +10,7 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode slow=head;
+        ListNode slow=head; 
         ListNode fast=head;
         while(fast!=null && fast.next!=null && slow!=null){
             slow=slow.next;
