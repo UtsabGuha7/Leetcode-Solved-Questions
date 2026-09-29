@@ -20,6 +20,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -72,4 +74,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
