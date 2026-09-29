@@ -43,6 +43,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -78,8 +79,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
