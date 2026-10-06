@@ -9,6 +9,7 @@
 | [0242-valid-anagram](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -46,11 +47,13 @@
 | [0234-palindrome-linked-list](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -88,4 +91,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
