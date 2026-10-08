@@ -11,6 +11,7 @@
 | [0812-rotate-string](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -50,6 +51,7 @@
 | [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -57,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0886-score-of-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
