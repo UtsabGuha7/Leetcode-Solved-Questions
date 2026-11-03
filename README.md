@@ -94,6 +94,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
