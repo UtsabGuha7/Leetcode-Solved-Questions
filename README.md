@@ -23,12 +23,14 @@
 | [0141-linked-list-cycle](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
@@ -106,4 +109,16 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UtsabGuha7/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
